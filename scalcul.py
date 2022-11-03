@@ -1,4 +1,4 @@
-print('        Welcome to calculator \n')
+print('        Welcome to calculator ali gogoli \n')
 again = 'again'
 while again == 'again':
     n0 = float(input('Number : '))
